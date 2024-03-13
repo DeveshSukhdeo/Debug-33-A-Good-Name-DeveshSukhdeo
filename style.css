@@ -1,0 +1,26 @@
+ /* Full credit to code.org for task */
+
+body{
+  background-color: #b35109;
+  text-align: center;
+}             
+
+p {
+  color: #692626;
+  font-size: 20px;
+  font-weight: bolder;
+  font-variant: small-caps;
+  font-family: garamond;
+}
+h1 {
+  color:  #692626;
+  font-family: courior, monospace;
+  font-size: 35px;
+  font-family: papyrus;
+  font-variant: small-caps;
+}
+
+img{
+  
+}
+
